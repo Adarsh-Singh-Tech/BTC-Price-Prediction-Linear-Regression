@@ -612,9 +612,9 @@ threshold = 0.001   # Increase to filter more noise; decrease for more signals
 
 IT professional and machine learning practitioner with a B.Tech in Computer Science, building end-to-end data science projects with a focus on practical implementation.
 
-- GitHub: [github.com/adarshsingh](https://github.com/adarshsingh)
-- LinkedIn: [linkedin.com/in/adarshsingh](https://linkedin.com/in/adarshsingh)
-- Email: adarsh.singh@email.com
+- GitHub: [github.com/Adarsh-Singh-Tech]([https://github.com/adarshsingh](https://github.com/Adarsh-Singh-Tech))
+
+- Email: adarsh.s.hashcodejr@gmail.com
 
 ---
 
